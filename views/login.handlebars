@@ -1,0 +1,194 @@
+<!--
+
+<div class="align-self-center">
+  <div class="card d-inline-flex">
+    <h2 class="card-header">Login</h2>
+    <div class="card-body">
+      <form class="form login-form">
+        <div class="form-group">
+          <label for="email-login">Email address</label>
+          <input class="form-control" placeholder="Enter email" type="text" id="email-login" />
+        </div>
+        <div class="form-group">
+          <label for="password-login">Password</label>
+          <input class="form-control" placeholder="Password" type="password" id="password-login" />
+        </div>
+        <div class="form-group">
+          <button class="btn btn-primary" type="submit">Login</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div class="card d-inline-flex m-5">
+    <h2 class="card-header">Signup</h2>
+    <div class="card-body">
+      <form class="form signup-form">
+        <div class="form-group">
+          <label for="name-signup">Name</label>
+          <input class="form-control" placeholder="Enter your full name" type="text" id="name-signup" />
+        </div>
+        <div class="form-group">
+          <label for="email-signup">Email address</label>
+          <input class="form-control" placeholder="Enter email" type="text" id="email-signup" />
+        </div>
+        <div class="form-group">
+          <label for="password-signup">Password</label>
+          <input class="form-control" placeholder="Enter password" type="password" id="password-signup" />
+        </div>
+        <div class="form-group">
+          <button class="btn btn-primary" type="submit">Signup</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+-->
+<section class="pt-20 p-10 lg:pt-[40px] pb-12 lg:pb-[90px] mt-[50px] bg-gradient-to-br from-pink-600 to-orange-600 ">
+   <div class="container">
+      <div class="flex flex-wrap -mx-4">
+         <div class="w-full px-4">
+            <div class="text-center mx-auto mb-12 lg:mb-20 max-w-[410px]">
+               <span class="font-semibold text-lg text-primary mb-2 block">
+               Built with ❤️
+               </span>
+               <h2
+                  class="
+                  font-bold
+                  text-3xl
+                  sm:text-4xl
+                  md:text-[40px]
+                  text-dark
+                  mb-4
+                  "
+                  >
+                 Sign in or Create account to use app
+               </h2>
+               
+              
+  <form class="form login-form">
+    <div class="mb-4 mt-4">
+      <label class="block text-white text-sm font-bold mb-2" for="email">
+        Your E-mail
+      </label>
+      <input
+        class="shadow appearance-none border border-black rounded w-full py-2 px-3 text-white bg-black leading-tight focus:outline-none focus:shadow-outline"
+        id="email-login"
+        type="text"
+        placeholder="Email"
+      />
+    </div>
+    <div class="mb-6">
+      <label
+        class="block text-white text-sm font-bold mb-2"
+        for="password-login"
+      >
+        Your Password
+      </label>
+      <input
+        class="shadow appearance-none border border-black rounded w-full py-2 px-3 text-white bg-black mb-3 leading-tight focus:outline-none focus:shadow-outline"
+        id="password-login"
+        type="password"
+        placeholder="******************"
+      />
+
+    </div>
+    <div class="flex items-center justify-between">
+      <button
+        type="submit"
+        class="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+      >
+        <span class="absolute left-0 inset-y-0 flex items-center pl-3">
+          <!-- Heroicon name: solid/lock-closed -->
+          <svg
+            class="h-5 w-5 text-indigo-500 group-hover:text-indigo-400"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            aria-hidden="true"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z"
+              clip-rule="evenodd"
+            ></path>
+          </svg>
+        </span>
+        Sign in
+      </button>
+    </div>
+  </form>
+
+  <form class="form signup-form">
+    <div class="mb-4 mt-4">
+      <label class="block text-white text-sm font-bold mb-2" for="username">
+        Username
+      </label>
+      <input
+        class="shadow appearance-none border-black rounded w-full py-2 px-3 text-white bg-black leading-tight focus:outline-none focus:shadow-outline"
+        id="name-signup"
+        type="text"
+        placeholder="Username"
+      />
+    </div>
+    <div class="mb-6">
+      <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
+        Email
+      </label>
+      <input
+        class="shadow appearance-none border bg-black border-red-500 rounded w-full py-2 px-3 text-white mb-3 leading-tight focus:outline-none focus:shadow-outline"
+        id="email-signup"
+        type="email"
+        placeholder="youremail@gmail.com"
+      />
+
+    </div>
+    <div class="mb-6">
+      <label class="block text-gray-700 text-sm font-bold mb-2" for="password">
+        Password
+      </label>
+
+      <input
+        class="shadow appearance-none border bg-black border-red-500 rounded w-full py-2 px-3 text-white mb-3 leading-tight focus:outline-none focus:shadow-outline"
+        id="password-signup"
+        type="password"
+        autocomplete="current-password"
+        placeholder="***************"
+      />
+      <p class="text-red-500 text-xs italic">Please choose a password.</p>
+    </div>
+
+    <div class="flex items-center justify-between">
+      <button
+        type="submit"
+        class="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+      >
+        <span class="absolute left-0 inset-y-0 flex items-center pl-3">
+          <!-- Heroicon name: solid/lock-closed -->
+          <svg
+            class="h-5 w-5 text-indigo-500 group-hover:text-indigo-400"
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            aria-hidden="true"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z"
+              clip-rule="evenodd"
+            ></path>
+          </svg>
+        </span>
+        Sign up
+      </button>
+    </div>
+  </form>
+</div>
+            </div>
+         </div>
+      
+
+
+
+<script src="/js/login.js"></script>
+<script src="/js/signup.js"></script>

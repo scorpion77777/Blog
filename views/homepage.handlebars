@@ -1,0 +1,11 @@
+<!-- Loop over each object in the blogs array -->
+{{#each blogs as |blog| }}
+
+{{> blog-card blog}}
+</div>
+{{else}}
+<div class="p-2">
+    <h2>There are currently no posts</h2>
+</div>
+
+{{/each}}

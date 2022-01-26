@@ -1,0 +1,28 @@
+<div
+  class="flex-col text-center p-4 mx-auto mb-4 mt-[50px] lg:mb-20 max-w-[610px] bg-gradient-to-br from-orange-400 to-red-600 rounded-lg border border-none shadow-lg dark:bg-gray-900 dark:border-gray-700"
+>
+  <div class="flex-col">
+    <a
+      class="mb-1 text-xl font-medium text-blue-900 dark:text-white"
+      href="/blog/{{id}}"
+    >{{title}}</a>
+</div>
+<div class="flex-col">
+    <span class="mb-4 text-sm text-white dark:text-gray-400">{{content}}</span>
+</div>
+<div>
+    <span class="mb-4 text-sm text-black dark:text-gray-400">{{user.name}} on {{format_date date_created}}</span>
+
+      </div>
+
+      <div>
+    <a
+      class="mb-1 text-xl font-medium text-blue-200 dark:text-white"
+      href="/blog/{{id}}"
+    >
+      {{comments.length}}
+      {{format_plural "comment" comments.length}}
+    </a>
+    </div>
+  </div>
+</div>

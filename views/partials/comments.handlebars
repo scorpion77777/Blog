@@ -1,0 +1,14 @@
+{{#each comments as |comment|}}
+  <div
+    class="flex flex-col w-full justify-center p-2 lg:pt-[40px] mt-[50px] px-4 pt-4 mb-5 max-w-7xl bg-gradient-to-br from-orange-400 to-red-600 rounded-lg border border-none shadow-lg dark:bg-gray-900 dark:border-gray-700"
+  >
+    <div class="flex flex-col items-inline pb-10">
+      <span class="mb-4 text-sm text-white dark:text-gray-400">{{user.name}}
+        on
+        {{format_date date_created}}
+      </span>
+      <span class="mb-4 text-sm text-white dark:text-gray-400">{{user.name}}
+        {{content}}</span>
+    </div>
+  </div>
+{{/each}}
