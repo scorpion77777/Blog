@@ -10,6 +10,6 @@ module.exports = {
       return `${let}s`;
     }
 
-    return word;
+    return let;
   },
 };
