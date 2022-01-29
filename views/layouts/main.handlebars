@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link type="text/css" rel="stylesheet" href='/css/style.css'>
+   
     
 
     <title>Tech-Blog</title>
@@ -21,12 +22,12 @@
           <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
             <!-- Mobile menu button-->
             <button
+              
               type="button"
-              class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
-              aria-controls="mobile-menu"
-              aria-expanded="false"
+              class="mobile-menu-button inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white "
+              
             >
-              <span class="sr-only ">Open main menu</span>
+              
               <!--
             Icon when menu is closed.
 
@@ -35,6 +36,7 @@
             Menu open: "hidden", Menu closed: "block"
           -->
               <svg
+                x-show="!showMenu"
                 class="block h-6 w-6"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
@@ -76,12 +78,13 @@
           <div
             class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start"
           >
-            <div class="flex-shrink-0 flex items-center">
 
-              <!--  LOGO   -->
+            <!--  LOGO   --> 
+
+            <div class="flex-shrink-0 flex items-center">
              <a href="/" class="no-underline py-1"><h1 class="font-bold text-lg text-white tracking-widest">Tech-blog</h1></a>
             </div>
-            <div class="hidden sm:block sm:ml-6">
+            <div class="hidden sm:block sm:ml-6" id="my-links">
               <div class="flex space-x-4">   
                 <a
                   href="/"
@@ -117,8 +120,8 @@
 
       <!-- Mobile menu, show/hide based on menu state. -->
 
-      <div class="sm:hidden" id="mobile-menu">
-        <div class="px-2 pt-2 pb-3 space-y-1">
+      
+        <div class="hidden mobile-menu md:flex items-center px-2 pt-2 pb-3 space-y-1">
           <a
             href="/"
             class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium"
@@ -159,21 +162,20 @@
       
     </div>
 
-    
-    
 <!-- Footer -->
   
-
-
-
-    
-
     {{#if logged_in}}
       <script src="/js/logout.js"></script>
     {{/if}}
-
-
-
+  <script src="/js/mobile-menu.js"></script>
   </body>
 
 </html>
+
+
+
+			
+			
+		
+	
+	
