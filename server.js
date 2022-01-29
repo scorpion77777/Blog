@@ -29,7 +29,7 @@ const sess = {
     db: sequelize,
   }),
 };
-
+//llalala
 // Connection & App using handlebars as view
 
 app.use(session(sess));
