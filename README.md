@@ -15,6 +15,7 @@
 - [Libraries](#libraries)
 - [Tests](#tests)
 - [Credits](#credits)
+- [Link](#link)
 - [Author](#author)
 
 
@@ -51,6 +52,9 @@ No test availabe
 
 To my Instructors🚀🙏!!!
 
+## Link:
+
+- Deployed app on Heroku https://itech-blog.herokuapp.com/
 
 ## Author
 
