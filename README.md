@@ -6,6 +6,8 @@
 ## Table of Contents
 
 - [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
 - [About](#about)
 - [Author](#author)
 
@@ -28,6 +30,10 @@
 5. View your post 
 6. Edit your posts
 7. You can also delete your posts
+
+## Tests
+
+No test availabe
 
 
 ## Author
