@@ -4,14 +4,15 @@
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npmjs.com/)
 
 ## Scrrenshot:
+
 <img src="https://github.com/scorpion77777/Blog/blob/main/assets/screen.png" alt="Blog screenshot"></src>
 
-## Summary
+## Summary:
 
 - Tech-Blog is a app for creating blogs.
 
 
-## Table of Contents
+## Table of Contents:
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,9 +21,6 @@
 - [Credits](#credits)
 - [Links](#link)
 - [Author](#author)
-
-
-
 
 
 ## Installation:
