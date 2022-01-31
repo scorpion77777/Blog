@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#installation:)
 - [About](#about)
 - [Author](#author)
 
@@ -19,7 +19,7 @@
 6. Open server.js in Terminal, then input: node server 
 
 
-### About
+### Usage:
 
 1. First when user entering the app he/she must create account to use app create account click login button
 2. Login to your account
