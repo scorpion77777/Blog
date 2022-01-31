@@ -50,20 +50,20 @@
 - BACK_END: Node.js🚀
 - FRONT_END: Handlebars.js🦾 & Tailwind👨‍🎨
 
-## Tests:
+### Tests:
 
 No test availabe
 
 
-## Credits:
+### Credits:
 
 To my Instructors🚀🙏!!!
 
-## Links:
+### Links:
 
 - Deployed app on Heroku https://itech-blog.herokuapp.com/
 
-## Author:
+### Author:
 
 I'm a student at UCI bootcamp [full stack web development]
 
