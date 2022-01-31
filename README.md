@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Installation](#HowToUseTheApp:)
+- [Installation](#howhouseuheapp:)
 - [About](#about)
 - [Author](#author)
 
