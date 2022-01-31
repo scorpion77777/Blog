@@ -5,12 +5,12 @@
 
 ## Table of Contents
 
-- [Installation](#howhouseuheapp:)
+- [Installation](#installation)
 - [About](#about)
 - [Author](#author)
 
 
-### How To Use The App:
+### Installation:
 1. Clone the repo from https://github.com/scorpion77777/Blog
 2. go to Blog folder root directory
 3. Create .env file with your credentials
