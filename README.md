@@ -22,7 +22,7 @@
 - [Author](#author)
 
 
-[demo](https://example.com){:target="_blank"}
+
 
 
 ### Installation:
