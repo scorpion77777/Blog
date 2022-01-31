@@ -7,10 +7,7 @@
 
 - [Installation](#installation)
 - [About](#about)
-- [Licence](#licence)
 - [Author](#author)
-
-
 
 
 ### How To Use The App:
