@@ -1,5 +1,4 @@
 // Dependences
-
 const path = require("path");
 const express = require("express");
 const session = require("express-session");
@@ -20,7 +19,7 @@ const hbs = exphbs.create({ helpers });
 const sess = {
   secret: "super-secret",
   cookie: {
-    // Session automatically logs out after 10 minutes
+    // login session  will automatically logs out after 10 minutes
     //expires: 10 * 60 * 1000,
   },
   resave: false,
