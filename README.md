@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Summary
 
 - Tech-Blog is a app for creating blogs. And you can also comment on other user blog posts.
