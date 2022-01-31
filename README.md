@@ -24,8 +24,8 @@
 
 ### Installation:
 1. Clone the repo from https://github.com/scorpion77777/Blog
-2. go to Blog folder root directory
-3. Create .env file with your credentials
+2. Go to Blog folder root directory
+3. Create .env file in root directory with your credentials
 4. Install the modules with: npm i
 5. Seed data run with: npm run seed
 6. Run front end input: npm run build tailwind
