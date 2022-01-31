@@ -22,8 +22,6 @@
 - [Author](#author)
 
 
-<a href="https://github.com/scorpion77777/Blog" target="_blank">external link</a>
-
 ### Installation:
 1. Clone the repo from https://github.com/scorpion77777/Blog
 2. Go to Blog folder root directory
