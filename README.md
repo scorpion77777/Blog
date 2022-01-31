@@ -22,6 +22,9 @@
 - [Author](#author)
 
 
+[demo](https://example.com){:target="_blank"}
+
+
 ### Installation:
 1. Clone the repo from https://github.com/scorpion77777/Blog
 2. Go to Blog folder root directory
