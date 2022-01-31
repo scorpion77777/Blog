@@ -2,7 +2,6 @@
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://npmjs.com/)
-[![Node]](https://img.shields.io/node/v/node?color=yellow&label=node&logo=node&logoColor=green&style=plastic)
 
 ## Summary
 
