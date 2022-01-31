@@ -18,7 +18,7 @@
 - [Libraries](#libraries)
 - [Tests](#tests)
 - [Credits](#credits)
-- [Link](#link)
+- [Links](#link)
 - [Author](#author)
 
 
@@ -50,20 +50,20 @@
 - BACK_END: Node.js🚀
 - FRONT_END: Handlebars.js🦾 & Tailwind👨‍🎨
 
-## Tests
+## Tests:
 
 No test availabe
 
 
-## Credits
+## Credits:
 
 To my Instructors🚀🙏!!!
 
-## Link:
+## Links:
 
 - Deployed app on Heroku https://itech-blog.herokuapp.com/
 
-## Author
+## Author:
 
 I'm a student at UCI bootcamp [full stack web development]
 
