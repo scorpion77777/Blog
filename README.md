@@ -25,7 +25,7 @@
 
 
 
-### Installation:
+## Installation:
 1. Clone the repo from https://github.com/scorpion77777/Blog
 2. Go to Blog folder root directory
 3. Create .env file in root directory with your credentials
@@ -35,7 +35,7 @@
 7. Open server.js in Terminal, then input: node server 
 
 
-### Usage:
+## Usage:
 
 1. First when user entering the app he/she must create account to use app create account click login button
 2. Login to your account
@@ -45,25 +45,25 @@
 6. Edit your posts
 7. You can also delete your posts
 
-### Libraries:
+## Libraries:
 
 - BACK_END: Node.js🚀
 - FRONT_END: Handlebars.js🦾 & Tailwind👨‍🎨
 
-### Tests:
+## Tests:
 
 No test availabe
 
 
-### Credits:
+## Credits:
 
 To my Instructors🚀🙏!!!
 
-### Links:
+## Links:
 
 - Deployed app on Heroku https://itech-blog.herokuapp.com/
 
-### Author:
+## Author:
 
 I'm a student at UCI bootcamp [full stack web development]
 
