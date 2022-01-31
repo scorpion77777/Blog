@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Tech-Blog is a app for creating blogs. And you can also comment on other user blog posts.
+- Tech-Blog is a app for creating blogs.
 
 
 ## Table of Contents
@@ -10,7 +10,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Tests](#tests)
-- [About](#about)
+- [Credits](#credits)
 - [Author](#author)
 
 
@@ -36,6 +36,11 @@
 ## Tests
 
 No test availabe
+
+
+## Credits
+
+To my Instructors🚀🙏!!!
 
 
 ## Author
