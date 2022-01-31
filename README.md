@@ -22,10 +22,10 @@
 - [Author](#author)
 
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<a href="https://github.com/scorpion77777/Blog" target="_blank">external link</a>
 
 ### Installation:
-1. Clone the repo from [go](https://github.com/scorpion77777/Blog){: target="_blank" rel="noopener"}
+1. Clone the repo from https://github.com/scorpion77777/Blog)
 2. Go to Blog folder root directory
 3. Create .env file in root directory with your credentials
 4. Install the modules with: npm i
