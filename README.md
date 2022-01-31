@@ -24,7 +24,7 @@
 
 ### About
 
-1. First when user entering the app he/she must creat account to use app create account click login button
+1. First when user entering the app he/she must create account to use app create account click login button
 2. Login to your account
 3. Now you can create blog posts
 4. Comment on other users posts
@@ -32,8 +32,6 @@
 6. Edit your posts
 7. You can also delete your posts
 
-### License
-MIT License
 
 ## Author
 
