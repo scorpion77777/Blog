@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [Installation](#installation:)
+- [Installation](#installation)
 - [About](#about)
 - [Author](#author)
 
