@@ -9,6 +9,7 @@
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Libraries](#libraries)
 - [Tests](#tests)
 - [Credits](#credits)
 - [Author](#author)
@@ -32,6 +33,11 @@
 5. View your post 
 6. Edit your posts
 7. You can also delete your posts
+
+### Libraries:
+
+- BACK_END: Node.js🚀
+- FRONT_END: Handlebars.js🦾 & Tailwind👨‍🎨
 
 ## Tests
 
