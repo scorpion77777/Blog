@@ -29,7 +29,7 @@
 3. Create .env file in root directory with your credentials
 4. Install the modules with: npm i
 5. Seed data run with: npm run seed
-6. Run front end input: npm run build tailwind
+6. Run front end input: npm run build-tailwind
 7. Open server.js in Terminal, then input: node server 
 
 
